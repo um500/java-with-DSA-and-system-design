@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\python"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"FUN2.C": "cpp"
+		}
+	}
+}
